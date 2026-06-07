@@ -2,15 +2,15 @@
 
 <img src="assets/image/Aayush.webp" alt="Ayush-link Logo" width="128" style="border-radius: 50%; margin-bottom: 16px;">
 
-# Ayush-link
+# Ayush Links
 
 ### Social Links Hub — Ayush Gupta
 
 <p align="center">
-  <a href="https://https://ayusheduverse.github.io/AyushLinks/">
+  <a href="https://ayusheduverse.github.io/Ayush-Links/">
     <img src="https://img.shields.io/badge/Live_Demo-🌐-E11D48?style=for-the-badge&labelColor=1a1a1a" alt="Live Demo">
   </a>
-  <a href="https://github.com/AyushEduverse/AyushLinks">
+  <a href="https://github.com/AyushEduverse/Ayush-Links">
     <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" alt="GitHub Repo">
   </a>
 </p>
@@ -129,7 +129,7 @@ No build step, no dependencies, no backend. Just open in a browser!
 
 ```bash
 # Clone the repository
-git clone https://github.com/AyushEduverse/AyushLinks.git
+git clone https://github.com/AyushEduverse/Ayush-Links.git
 
 # Navigate into the project
 cd Ayush-link
